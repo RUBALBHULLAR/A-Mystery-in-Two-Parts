@@ -1,7 +1,5 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
-![QuickDBD- Employee ERD.png](QuickDBD- Employee ERD.png)
 
 ## Background
 
@@ -9,16 +7,15 @@ Conduct a research project on employees of the corporation from the 1980s and 19
 
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, perform the following:
 
-Data Modeling
-Data Engineering
-Data Analysis
+1. Data Modeling
+2. Data Engineering
+3. Data Analysis
 
 #### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 #### Data Engineering
-
 * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
   * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.
