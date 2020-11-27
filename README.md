@@ -1,7 +1,7 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
-![QuickDBD- Employee ERD.png](QuickDBD- Employee ERD.png.png)
+![QuickDBD- Employee ERD.png](QuickDBD- Employee ERD.png)
 
 ## Background
 
